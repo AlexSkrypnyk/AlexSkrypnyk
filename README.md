@@ -12,3 +12,4 @@ This GitHub profile is used for contributing to Drupal and other repositories.
 | Project | Description | Version | CI Status |
 |---|---|---|---|
 | [Generated Content](https://github.com/AlexSkrypnyk/generated_content) | Drupal module to programmatically generate content | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/drevops/generated_content) | [![CircleCI](https://circleci.com/gh/AlexSkrypnyk/generated_content.svg?style=shield)](https://circleci.com/gh/AlexSkrypnyk/generated_content) |
+| [Testmode](https://github.com/AlexSkrypnyk/testmode) | Drupal module used to alter existing site content and other configurations when running tests.  | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/AlexSkrypnyk/testmode) | |[![CircleCI](https://circleci.com/gh/AlexSkrypnyk/testmode.svg?style=shield)](https://circleci.com/gh/AlexSkrypnyk/testmode)|
