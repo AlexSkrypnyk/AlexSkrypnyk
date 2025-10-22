@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm a skilled Drupal Solutions Architect and DevOps Engineer with experience in
+I'm a Drupal Solutions Architect and DevOps Engineer with experience in
 delivering robust and scalable software solutions.
 
 You can learn more about my professional background and skills on my LinkedIn
