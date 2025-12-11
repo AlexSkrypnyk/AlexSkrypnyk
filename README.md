@@ -31,6 +31,4 @@ This GitHub profile is used for contributing to Drupal and other repositories.
 
 [![GitHub Streak](https://github-readme-streak-stats-wheat-psi.vercel.app?user=AlexSkrypnyk)](https://git.io/streak-stats)
 
-[![AlexSkrypnyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSkrypnyk&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=AlexSkrypnyk&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSkrypnyk&layout=compact)](https://github.com/tyler36/github-readme-stats)
